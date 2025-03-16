@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:galibhkhan@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,37 +47,37 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Modular microbial cell design
+  - Machine Learning
+  - Protein Design
 
 education:
   - area: Ph.D. in Chemical Engineering
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Tennessee
+    date_start: 2023-01-01
+    date_end: "On-going"
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Master of Science in Chemical Engineering
-    institution: UTK
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Tennessee
+    date_start: 2023-01-01
+    date_end: 2024-12-14
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.71/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Science in Chemical Engineering
+    institution: Bangladesh University of Engineering and Technology
+    date_start: 2014-01-01
+    date_end: 2019-04-28
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.09/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
