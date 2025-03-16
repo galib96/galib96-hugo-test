@@ -89,20 +89,22 @@ work:
     company_logo: ''
     date_start: 2023-01-01
     date_end: ''
-    summary: |2-
+    summary: |
 
       - Modular cell and microbial community design for microbial biosynthesis of diverse chemical compounds using machine learning, omics, and heuristic optimization.
 
       – Inceasing in-vivo thermostability of enzymes using kinetic modeling and machine learning to enable high temperature biosynthesis (CBP to fuel team, Center for Bioenergy Innovation, Oak Ridge National Laboratory, USA).
       
       – Metabolic network modeling to study metabolic burden due to Heterologous protein expression in microbial cell.
+      
   - position: Research Officer
     company_name:  International Centre for Diarrhoeal Disease Research (ICDDR,B), Dhaka, Bangladesh
     company_url: ''
     company_logo: ''
     date_start: 2021-11-01
     date_end: 2022-05-31
-    summary: |2-
+    summary: |
+
       - Worked on the research project ”Cleaner Brick Manufacturing in Bangladesh” jointly conducted by Stanford University, ICDDR,B and BUET led by Dr. Stephen Luby, Professor, Stanford University. 
       
       – Led the technical on-field intervention team to implement process improvements to improve brick quality, and to reduce CO emission by 50 percent.
@@ -115,7 +117,8 @@ work:
     company_logo: ''
     date_start: 2019-11-01
     date_end: 2021-08-31
-    summary: |2-
+    summary: |
+      
       - Led a diverse team of 30+ people including employees and freelancers.
       
       – Created online courses on Excel, SQL and PowerPoint which have 100000+ enrollments.
