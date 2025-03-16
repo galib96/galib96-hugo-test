@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:galibhkhan@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/galibhassankhan
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
@@ -96,7 +96,7 @@ work:
       – Inceasing in-vivo thermostability of enzymes using kinetic modeling and machine learning to enable high temperature biosynthesis (CBP to fuel team, Center for Bioenergy Innovation, Oak Ridge National Laboratory, USA).
       
       – Metabolic network modeling to study metabolic burden due to Heterologous protein expression in microbial cell.
-      
+
   - position: Research Officer
     company_name:  International Centre for Diarrhoeal Disease Research (ICDDR,B), Dhaka, Bangladesh
     company_url: ''
