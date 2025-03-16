@@ -47,20 +47,28 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Modular microbial cell design
-  - Machine Learning
-  - Protein Design
+  - Modular microbial strain design
+  - Synthetic biology
+  - Microbial community design
+  - Machine learning
+  - Protein design to improve thermostability and activity
+  - Convex optimization
+  - Multi-objective optimization 
+  - Omics data integration
+  - Metabolic burden analysis
 
 education:
-  - area: Ph.D. in Chemical Engineering
+  - area: Ph.D. in Chemical Engineering (On-going)
     institution: University of Tennessee
     date_start: 2023-01-01
     date_end: 2027-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      My research focuses on the design and optimization of single modular cell as well as microbial communities for production of multiple target chemical compounds. This aims to create minimal design enabling fast design-build-test cycle in metabolic engineering and systems biology.
+
+      Ph.D. adviser: Dr. Cong T. Trinh
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: Master of Science in Chemical Engineering
     institution: University of Tennessee
     date_start: 2023-01-01
@@ -68,25 +76,16 @@ education:
     summary: |
       GPA: 3.71/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: Bachelor of Science in Chemical Engineering
     institution: Bangladesh University of Engineering and Technology
     date_start: 2014-01-01
     date_end: 2019-04-28
     summary: |
-      GPA: 3.09/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.09/4.0 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Graduate Research and Teaching Assistant
+    company_name: Department of Chemical Engineering, University of Tennessee
+    company_url: 'https://cbe.utk.edu/'
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
@@ -183,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. Student of Chemical Engineering at the University of Tennessee. On the way to Ph.D., finished my MS in Chemical Engineering from the University of Tennessee in 2024. Before that, after finishing B.Sc. in Chemical Engineering from Bangladesh University of Engineering and Technology in 2019, I cofounded an EdTech company named Bohubrihi in 2019 with the goal of providing technical online courses in Bangla for tertiary students and professionals helping them to advance in their career. I took the exit from Bohubrihi in late 2021 during its acquisition by Shikho technologies Bangladesh Ltd.
