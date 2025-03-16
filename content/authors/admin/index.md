@@ -61,11 +61,11 @@ education:
   - area: Ph.D. in Chemical Engineering (On-going)
     institution: University of Tennessee
     date_start: 2023-01-01
-    date_end: '
+    date_end: ''
     summary: |
       My research focuses on the design and optimization of single modular cell as well as microbial communities for production of multiple target chemical compounds. This aims to create minimal design enabling fast design-build-test cycle in metabolic engineering and systems biology.
 
-      "Ph.D. adviser: Dr. Cong T. Trinh"
+      Ph.D. adviser - Dr. Cong T. Trinh
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
