@@ -3,7 +3,7 @@
 title: Galib Hassan Khan
 
 # Name pronunciation (optional)
-name_pronunciation: Galib Hassan Khan
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Galib
@@ -24,8 +24,8 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Tennessee
+    url: https://www.utk.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -52,7 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Ph.D. in Chemical Engineering
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master of Science in Chemical Engineering
+    institution: UTK
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
