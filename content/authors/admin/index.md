@@ -65,7 +65,7 @@ education:
     summary: |
       My research focuses on the design and optimization of single modular cell as well as microbial communities for production of multiple target chemical compounds. This aims to create minimal design enabling fast design-build-test cycle in metabolic engineering and systems biology.
 
-      Ph.D. adviser: Dr. Cong T. Trinh
+      "Ph.D. adviser: Dr. Cong T. Trinh"
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
