@@ -10,8 +10,8 @@ first_name: Galib
 last_name: Khan
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,13 +38,13 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/galib96
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/galibhassankhan693/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=WCvzjbgAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0006-6233-7102
 
 interests:
   - Modular microbial strain design
@@ -61,7 +61,7 @@ education:
   - area: Ph.D. in Chemical Engineering (On-going)
     institution: University of Tennessee
     date_start: 2023-01-01
-    date_end: 2027-12-31
+    date_end: '
     summary: |
       My research focuses on the design and optimization of single modular cell as well as microbial communities for production of multiple target chemical compounds. This aims to create minimal design enabling fast design-build-test cycle in metabolic engineering and systems biology.
 
@@ -84,27 +84,36 @@ education:
       GPA: 3.09/4.0 
 work:
   - position: Graduate Research and Teaching Assistant
-    company_name: Department of Chemical Engineering, University of Tennessee
+    company_name: Department of Chemical Engineering, University of Tennessee, Knoxville, TN, USA
     company_url: 'https://cbe.utk.edu/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      - Modular cell and microbial community design for microbial biosynthesis of diverse chemical compounds using machine learning, omics, and heuristic optimization.
+      – Inceasing in-vivo thermostability of enzymes using kinetic modeling and machine learning to enable high temperature biosynthesis (CBP to fuel team, Center for Bioenergy Innovation, Oak Ridge National Laboratory, USA).
+      – Metabolic network modeling to study metabolic burden due to Heterologous protein expression in microbial cell.
+  - position: Research Officer
+    company_name:  International Centre for Diarrhoeal Disease Research (ICDDR,B), Dhaka, Bangladesh
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-11-01
+    date_end: 2022-05-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Worked on the research project ”Cleaner Brick Manufacturing in Bangladesh” jointly conducted by Stanford University, ICDDR,B and BUET led by Dr. Stephen Luby, Professor, Stanford University. 
+      – Led the technical on-field intervention team to implement process improvements to improve brick quality, and to reduce CO emission by 50 percent.
+      – Collaborated with social scientists, brick kiln owners and workers about new process implementation and its progress.
+  
+  - position: Cofounder and Chairman
+    company_name: Bohubrihi Technologies Ltd., Dhaka, Bangladesh
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-11-01
+    date_end: 2021-08-31
+    summary: |
+      - Led a diverse team of 30+ people including employees and freelancers.
+      – Created online courses on Excel, SQL and PowerPoint which have 100000+ enrollments.
+      – Jointly led the team that oversaw and negotiated the acquisition of the company by Shikho technologies Bangladesh Ltd.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -115,11 +124,19 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
       - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: C
+        description: ''
+        percent: 40
+        icon: circle-stack
+      - name: Matlab
         description: ''
         percent: 40
         icon: circle-stack
@@ -142,11 +159,8 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Bengali
+    # percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -182,4 +196,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. Student of Chemical Engineering at the University of Tennessee. On the way to Ph.D., finished my MS in Chemical Engineering from the University of Tennessee in 2024. Before that, after finishing B.Sc. in Chemical Engineering from Bangladesh University of Engineering and Technology in 2019, I cofounded an EdTech company named Bohubrihi in 2019 with the goal of providing technical online courses in Bangla for tertiary students and professionals helping them to advance in their career. I took the exit from Bohubrihi in late 2021 during its acquisition by Shikho technologies Bangladesh Ltd.
+I am a Ph.D. Student of Chemical Engineering at the University of Tennessee. After finishing B.Sc. in Chemical Engineering from Bangladesh University of Engineering and Technology in 2019, I cofounded an EdTech company named "Bohubrihi" with the goal of providing technical online courses in Bangla for tertiary students and professionals helping them to advance in their career. I took the exit from Bohubrihi in late 2021 during its acquisition by Shikho technologies Bangladesh Ltd.
